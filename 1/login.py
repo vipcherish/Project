@@ -8,7 +8,7 @@
 #     print(err)
 #
 i=0
-while i<3:
+while i<3
     user=input('username:')
     pw=input('password:')
     if user=="alex" and pw=="123456":
